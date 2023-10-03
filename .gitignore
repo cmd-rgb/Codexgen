@@ -1,0 +1,19 @@
+.DS_Store
+NOTES*
+__debug_bin
+_research
+.env
+*.sqlite
+*.sqlite3
+web/node_modules
+web/dist
+web/coverage
+yarn-error*
+release
+.idea
+.vscode/settings.json
+coverage.out
+codexgen.session.sql
+
+# ignore any executables we build
+/codexgen
